@@ -191,12 +191,6 @@ Word2vecfromScratch/
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📚 References
-
-- [Mikolov et al. (2013) - Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)
-- [Mikolov et al. (2013) - Distributed Representations of Words and Phrases](https://arxiv.org/abs/1310.4546)
-
-
 ## 👨‍💻 Author
 
 **Monika Chaulagain**
@@ -208,6 +202,4 @@ Word2vecfromScratch/
 - Inspired by educational implementations and tutorials
 - Built for learning and understanding neural word embeddings
 
----
 
-*If you find this implementation helpful, please consider giving it a star! ⭐*
